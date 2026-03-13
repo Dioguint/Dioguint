@@ -25,6 +25,14 @@
 
 ---
 
+## Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dioguint&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=1a2c4e&text_color=555555" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
 ## Projetos
 
 ### 🏥 [sistema-hospitalar](https://github.com/Dioguint/sistema-hospitalar)
