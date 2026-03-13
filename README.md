@@ -33,7 +33,16 @@ Plataforma de gestão de estoque hospitalar com dois módulos integrados:
 - Dashboard web em **HTML/CSS/JS + Chart.js** com gráficos e alertas de estoque crítico
 
 ### ✅ [todo-react](https://github.com/Dioguint/todo-react)
-Lista de tarefas em **React 18** com filtros por status, edição inline e persistência via localStorage.
+Lista de tarefas em **React 18** com prioridades, busca em tempo real, dark mode e persistência via localStorage.
+
+### 📋 [kanban-board](https://github.com/Dioguint/kanban-board)
+Board estilo Trello em **React** com drag & drop nativo, tags coloridas, prioridades e filtros.
+
+### 💰 [rastreador-financas](https://github.com/Dioguint/rastreador-financas) · [🔗 demo ao vivo](https://controle-de-financas-wine.vercel.app)
+App de controle financeiro em **React** com dashboard de KPIs, gráfico de gastos por categoria e histórico por mês.
+
+### 🌍 [flashcards-idiomas](https://github.com/Dioguint/flashcards-idiomas)
+CLI em **Python** para estudo de vocabulário em Inglês, Espanhol e Francês com sistema de pontuação e histórico de sessões.
 
 ---
 
