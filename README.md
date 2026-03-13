@@ -40,6 +40,7 @@ Board estilo Trello em **React** com drag & drop nativo, tags coloridas, priorid
 
 ### 💰 [rastreador-financas](https://github.com/Dioguint/rastreador-financas)
 App de controle financeiro em **React** com dashboard de KPIs, gráfico de gastos por categoria e histórico por mês.
+(https://github.com/Dioguint/rastreador-financas) · [🔗 demo](https://rastreador-financas.vercel.app)
 
 ### 🌍 [flashcards-idiomas](https://github.com/Dioguint/flashcards-idiomas)
 CLI em **Python** para estudo de vocabulário em Inglês, Espanhol e Francês com sistema de pontuação e histórico de sessões.
