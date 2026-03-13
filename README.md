@@ -1,24 +1,28 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="160px" align="right" alt="ilustração de um computador"/>
-
-  <h2>Diogo Bello</h2>
-  <p>Full Stack Developer · Em formação · Rio de Janeiro, RJ</p>
-
-  <p>
-    Desenvolvedor Full Stack em formação, cursando ADS na UNISUAM.<br/>
-    Projetos práticos em React e Python publicados no GitHub e em produção.<br/>
-    6 anos de experiência no setor hospitalar.
-  </p>
-
-  <p>
-    <a href="mailto:Bello1k99@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/diogo-bello/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2>Diogo Bello</h2>
+      <p>Full Stack Developer · Em formação · Rio de Janeiro, RJ</p>
+      <p>
+        Desenvolvedor Full Stack em formação, cursando ADS na UNISUAM.<br/>
+        Projetos práticos em React e Python publicados no GitHub e em produção.<br/>
+        6 anos de experiência no setor hospitalar.
+      </p>
+      <p>
+        <a href="mailto:Bello1k99@gmail.com">
+          <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/diogo-bello/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </p>
+    </td>
+    <td valign="center" width="35%" align="right">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280px" alt="ilustração de um computador"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,4 +74,3 @@ Lista de tarefas em **React 18** com prioridades, busca em tempo real, dark mode
 
 ### 🌍 [flashcards-idiomas](https://github.com/Dioguint/flashcards-idiomas)
 CLI em **Python** para estudo de vocabulário em Inglês, Espanhol e Francês com sistema de pontuação e histórico de sessões.
- 
