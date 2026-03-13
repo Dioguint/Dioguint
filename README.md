@@ -1,7 +1,26 @@
-<h2 align="center">Diogo Bello</h2>
-<h4 align="center">Full Stack Developer · Em formação · Rio de Janeiro, RJ</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="160px" align="right" alt="ilustração de um computador"/>
 
-<br/>
+  <h2>Diogo Bello</h2>
+  <p>Full Stack Developer · Em formação · Rio de Janeiro, RJ</p>
+
+  <p>
+    Desenvolvedor Full Stack em formação, cursando ADS na UNISUAM.<br/>
+    Projetos práticos em React e Python publicados no GitHub e em produção.<br/>
+    6 anos de experiência no setor hospitalar.
+  </p>
+
+  <p>
+    <a href="mailto:Bello1k99@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/diogo-bello/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
+
+---
 
 ## Stack
 
@@ -40,22 +59,15 @@ Plataforma de gestão de estoque hospitalar com dois módulos integrados:
 - CLI em **Python + MySQL** com controle de lotes, validade, filtros e exportação CSV
 - Dashboard web em **HTML/CSS/JS + Chart.js** com gráficos e alertas de estoque crítico
 
-### ✅ [todo-react](https://github.com/Dioguint/todo-react)
-Lista de tarefas em **React 18** com prioridades, busca em tempo real, dark mode e persistência via localStorage.
+### 💰 [rastreador-financas](https://github.com/Dioguint/rastreador-financas) · [🔗 demo ao vivo](https://controle-de-financas-wine.vercel.app)
+App de controle financeiro em **React** com dashboard de KPIs, gráfico de gastos por categoria e histórico por mês.
 
 ### 📋 [kanban-board](https://github.com/Dioguint/kanban-board)
 Board estilo Trello em **React** com drag & drop nativo, tags coloridas, prioridades e filtros.
 
-### 💰 [rastreador-financas](https://github.com/Dioguint/rastreador-financas) · [🔗 demo ao vivo](https://controle-de-financas-wine.vercel.app)
-App de controle financeiro em **React** com dashboard de KPIs, gráfico de gastos por categoria e histórico por mês.
+### ✅ [todo-react](https://github.com/Dioguint/todo-react)
+Lista de tarefas em **React 18** com prioridades, busca em tempo real, dark mode e persistência via localStorage.
 
 ### 🌍 [flashcards-idiomas](https://github.com/Dioguint/flashcards-idiomas)
 CLI em **Python** para estudo de vocabulário em Inglês, Espanhol e Francês com sistema de pontuação e histórico de sessões.
-
----
-
-<p align="center">
-  <a href="mailto:Bello1k99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+ 
