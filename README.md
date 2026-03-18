@@ -58,7 +58,7 @@
 
 ## Projetos
 
-### 🏥 [sistema-hospitalar](https://github.com/Dioguint/sistema-hospitalar)
+### 🏥[sistema-hospitalar](https://github.com/Dioguint/Sistema-de-estoque-hospitalar)
 Plataforma de gestão de estoque hospitalar com dois módulos integrados:
 - CLI em **Python + MySQL** com controle de lotes, validade, filtros e exportação CSV
 - Dashboard web em **HTML/CSS/JS + Chart.js** com gráficos e alertas de estoque crítico
