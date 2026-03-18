@@ -58,19 +58,19 @@
 
 ## Projetos
 
-### 🏥[sistema-hospitalar](https://github.com/Dioguint/Sistema-de-estoque-hospitalar)
+### 🏥 [sistema-hospitalar](https://github.com/Dioguint/Sistema-de-estoque-hospitalar)
 Plataforma de gestão de estoque hospitalar com dois módulos integrados:
 - CLI em **Python + MySQL** com controle de lotes, validade, filtros e exportação CSV
 - Dashboard web em **HTML/CSS/JS + Chart.js** com gráficos e alertas de estoque crítico
 
-### 💰 [rastreador-financas](https://github.com/Dioguint/rastreador-financas) · [🔗 demo ao vivo](https://controle-de-financas-wine.vercel.app)
+### 💰 [rastreador-financas](https://github.com/Dioguint/Controle-de-Finan-as) · [🔗 demo ao vivo](https://controle-de-financas-wine.vercel.app)
 App de controle financeiro em **React** com dashboard de KPIs, gráfico de gastos por categoria e histórico por mês.
 
-### 📋 [kanban-board](https://github.com/Dioguint/kanban-board)
+### 📋 [kanban-board](https://github.com/Dioguint/Quadro-Kanban)
 Board estilo Trello em **React** com drag & drop nativo, tags coloridas, prioridades e filtros.
 
-### ✅ [todo-react](https://github.com/Dioguint/todo-react)
+### ✅ [todo-react](https://github.com/Dioguint/To-do-List)
 Lista de tarefas em **React 18** com prioridades, busca em tempo real, dark mode e persistência via localStorage.
 
-### 🌍 [flashcards-idiomas](https://github.com/Dioguint/flashcards-idiomas)
+### 🌍 [flashcards-idiomas](https://github.com/Dioguint/Flash-Cards-para-aprendizado)
 CLI em **Python** para estudo de vocabulário em Inglês, Espanhol e Francês com sistema de pontuação e histórico de sessões.
